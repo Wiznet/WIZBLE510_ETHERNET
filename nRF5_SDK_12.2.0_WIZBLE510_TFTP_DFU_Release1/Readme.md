@@ -1,4 +1,4 @@
-WIZBLE510 TFTP DFU Readme
+WIZBLE510 TFTP DFU Guide
 
 1.	Setup TFTP Server
  http://www.winagents.com/en/downloads/download-tftp-server.php
