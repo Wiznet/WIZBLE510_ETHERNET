@@ -17,9 +17,9 @@ Open nrf_dfu_tftp.c and Put the IP of tftp server in targetIp.
  ![](https://github.com/Wiznet/WIZBLE510_ETHERNET/blob/master/nRF5_SDK_12.2.0_WIZBLE510_TFTP_DFU_Release1/Images/5.png?raw=true)
  
 ## 5.	Setup W5500 Network Information<br>
-![](https://github.com/Wiznet/WIZBLE510_ETHERNET/blob/master/nRF5_SDK_12.2.0_WIZBLE510_TFTP_DFU_Release1/Images/6.png?raw=true)
+ ![](https://github.com/Wiznet/WIZBLE510_ETHERNET/blob/master/nRF5_SDK_12.2.0_WIZBLE510_TFTP_DFU_Release1/Images/7.png?raw=true)
 
 ## 6.	Build & Write SoftDevice (s132 3.1.0) and Bootloader Firmware
 
 ## 7.	Check the data transfer and firmware update.  
- ![](https://github.com/Wiznet/WIZBLE510_ETHERNET/blob/master/nRF5_SDK_12.2.0_WIZBLE510_TFTP_DFU_Release1/Images/7.png?raw=true)
+ ![](https://github.com/Wiznet/WIZBLE510_ETHERNET/blob/master/nRF5_SDK_12.2.0_WIZBLE510_TFTP_DFU_Release1/Images/6.png?raw=true)
