@@ -11,7 +11,8 @@
 ## 3.	H/W Setting
  ![](https://github.com/Wiznet/WIZBLE510_ETHERNET/blob/master/nRF5_SDK_12.2.0_WIZBLE510_TFTP_DFU_Release1/Images/3.png?raw=true)
 
-## 4.	Setup Target IP  WIZBLE510_ETHERNET\nRF5_SDK_12.2.0_WIZBLE510_TFTP_DFU_Release1\examples\dfu\bootloader_tftp\wizble510\arm5_no_packs path of the open project.
+## 4.	Setup Target IP  
+WIZBLE510_ETHERNET\nRF5_SDK_12.2.0_WIZBLE510_TFTP_DFU_Release1\examples\dfu\bootloader_tftp\wizble510\arm5_no_packs path of the open project.
 Open nrf_dfu_tftp.c and Put the IP of tftp server in targetIp.
  ![](https://github.com/Wiznet/WIZBLE510_ETHERNET/blob/master/nRF5_SDK_12.2.0_WIZBLE510_TFTP_DFU_Release1/Images/4.png?raw=true)
  ![](https://github.com/Wiznet/WIZBLE510_ETHERNET/blob/master/nRF5_SDK_12.2.0_WIZBLE510_TFTP_DFU_Release1/Images/5.png?raw=true)
